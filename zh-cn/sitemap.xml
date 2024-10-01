@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/</loc>
-    <lastmod>2024-10-01T23:47:24+08:00</lastmod>
+    <lastmod>2024-10-01T21:57:47+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,17 +15,17 @@
                 href="https://hyxhyxhyxhyx915.github.io/hugo-dev/"
                 />
   </url><url>
-    <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/p/new/</loc>
-    <lastmod>2024-10-01T23:47:24+08:00</lastmod>
-  </url><url>
-    <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/post/</loc>
-    <lastmod>2024-10-01T23:47:24+08:00</lastmod>
-  </url><url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/p/2025%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%9D%E7%A0%94%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2024-10-01T21:57:47+08:00</lastmod>
   </url><url>
+    <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/post/</loc>
+    <lastmod>2024-10-01T21:57:47+08:00</lastmod>
+  </url><url>
+    <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/p/test-chinese/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,14 +37,11 @@
                 href="https://hyxhyxhyxhyx915.github.io/hugo-dev/categories/"
                 />
   </url><url>
-    <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hyxhyxhyxhyx915.github.io/hugo-dev/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
